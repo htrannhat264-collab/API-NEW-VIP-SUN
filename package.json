@@ -1,18 +1,19 @@
+
 {
-  "name": "sunwin-ultimate-ai",
-  "version": "6.0.0",
-  "description": "🎲 SUNWIN TX - 84 MODELS + FALLBACK 6 LEVELS - 100% DETERMINISTIC",
+  "name": "sunwin-super-ai",
+  "version": "8.0.0",
+  "description": "🎲 SUNWIN TX - SUPER AI - 100+ THUẬT TOÁN - KHÔNG RANDOM",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "ws": "^8.16.0",
     "express": "^4.18.2",
     "cors": "^2.8.5"
   },
   "engines": {
     "node": ">=16.0.0"
   },
-  "author": "@tranhoang2286",
-  "license": "MIT"
+  "author": "@tranhoang2286"
 }
